@@ -16,7 +16,7 @@ import PropTypes from "prop-types";
 class ItemModal extends Component {
 	state = {
 		modal: false,
-		nanme: ""
+		name: ""
 	};
 
 	static propTypes = {
