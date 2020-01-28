@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb+srv://aaron:cMSsIAsHPGkYGN3S@mernshoppingdemo-ywitb.mongodb.net/test?retryWrites=true&w=majority",
+	"jwtSecret": "jwt_config_secret"
+}
